@@ -29,10 +29,10 @@ const Wrapper = styled.header`
 const Header = ({ title, description, ...rest }) => (
   <Wrapper {...rest}>
     <StaticImage
-      src="../images/shamann-icon.png"
+      src="../images/avatar.jpg"
       placeholder="blurred"
       layout="fixed"
-      alt="Sylvain Hamann's portrait"
+      alt="Ruoxi Shang's Portrait"
       quality={100}
       width={100}
       height={100}
