@@ -12,9 +12,9 @@ const Quote = styled.blockquote`
   font-size: 1rem;
 `;
 
-export default function Showcase() {
+export default function publications() {
   return (
-    <Section title="Showcase">
+    <Section title="Publications">
       <Paragraph>
         I don't want to spam screenshots of all projects I've worked on. Please
         visit my{' '}
