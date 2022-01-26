@@ -1,5 +1,5 @@
 import React from 'react';
-
+import Anchor from './shared/Anchor';
 import Section from '../components/Section';
 import Paragraph from '../components/shared/Paragraph';
 
