@@ -1,14 +1,14 @@
 module.exports = {
   siteMetadata: {
-    title: 'Sylvain Hamann',
-    description: 'Web Developer',
-    site: '@sylvhama',
+    title: 'Ruoxi Shang',
+    description: 'HCI Researcher',
+    site: '@rxshang',
     image: 'https://shamann.dev/shamann.png',
     navLinks: [
       { name: 'About Me', path: '/' },
-      { name: 'Relevant Experience', path: '/relevant-experience/' },
-      { name: 'Showcase', path: '/showcase/' },
-      { name: 'Talks & OSS', path: '/talks-open-source/' },
+      { name: 'Projects', path: '/projects/' },
+      { name: 'Publications', path: '/publications/' },
+      { name: 'For Fun', path: '/fun/' },
     ],
   },
   plugins: [
