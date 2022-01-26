@@ -19,7 +19,7 @@ export default function Experience() {
   const secondPart = `${years} years${createSentenceEnd(months)}`;
 
   return (
-    <Section title="Relevant experience">
+    <Section title="Projects">
       <Paragraph aria-hidden>{firstPart}</Paragraph>
       <Split text={secondPart.slice(0, -1)} />
       <VisuallyHidden>
