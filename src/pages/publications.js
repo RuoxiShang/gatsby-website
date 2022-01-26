@@ -12,7 +12,7 @@ const Quote = styled.blockquote`
   font-size: 1rem;
 `;
 
-export default function publications() {
+export default function Publications() {
   return (
     <Section title="Publications">
       <Paragraph>

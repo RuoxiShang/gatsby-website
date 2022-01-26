@@ -18,9 +18,9 @@ const ImageWrapper = styled.div`
   }
 `;
 
-export default function Talks() {
+export default function Fun() {
   return (
-    <Section title="Talks & Open Source">
+    <Section title="For fun">
       <ImageWrapper>
         <StaticImage
           src="../images/shamann-speaker.jpg"

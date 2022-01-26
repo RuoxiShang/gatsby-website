@@ -9,7 +9,7 @@ import { Split } from '../components/shared/Split';
 
 const startDate = new Date(2013, 9, 1);
 
-export default function Experience() {
+export default function Projects() {
   const today = new Date();
 
   const years = differenceInYears(today, startDate);
