@@ -3,12 +3,12 @@ module.exports = {
     title: 'Ruoxi Shang',
     description: 'HCI Researcher',
     site: '@rxshang',
-    image: 'https://shamann.dev/shamann.png',
+    image: 'https://shamann.dev/rxshang.jpg',
     navLinks: [
       { name: 'About Me', path: '/' },
       { name: 'Projects', path: '/projects/' },
       { name: 'Publications', path: '/publications/' },
-      { name: 'For Fun', path: '/fun/' },
+      { name: 'Fun', path: '/fun/' },
     ],
   },
   plugins: [
@@ -18,13 +18,13 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: 'Sylvain Hamann',
-        short_name: 'shamann',
+        name: 'Ruoxi Shang',
+        short_name: 'rxshang',
         start_url: '/',
         background_color: '#212121',
         theme_color: '#212121',
         display: 'minimal-ui',
-        icon: 'src/images/shamann-icon.png', // This path is relative to the root of the site.
+        icon: 'src/images/avatar.jpg', // This path is relative to the root of the site.
       },
     },
     {
