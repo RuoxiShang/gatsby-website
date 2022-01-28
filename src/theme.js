@@ -3,7 +3,7 @@ const base = {
     lightBlue: '#B3E5FC',
     blue: '#03A9F4',
   },
-  font: { mono: `'Roboto Mono', monospace` },
+  font: { Ubuntu: `'Ubuntu', regular` },
   breakpoint: '640px',
 };
 
