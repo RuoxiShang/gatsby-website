@@ -4,6 +4,7 @@ const base = {
     blue: '#03A9F4',
   },
   //font: { mono: `'Roboto Mono', monospace` },
+  font: { mono: `'Ubuntu Mono', monospace` },
   breakpoint: '640px',
 };
 
