@@ -26,10 +26,6 @@ export default function Footer() {
         <List>
           <li>
             View my CV {' '}
-            <Anchor href="../../cv-ruoxi-sp22.pdf">
-              here
-            </Anchor>
-
             <Anchor href="https://drive.google.com/file/d/1EHLbdD1SdTskFIV5XDm7gPbVqfsfsEwG/view?usp=sharing">
               here
             </Anchor>
