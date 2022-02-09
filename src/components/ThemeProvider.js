@@ -12,11 +12,11 @@ const getMode = () => {
     const savedMode = window.localStorage.getItem('mode');
     if (savedMode) return savedMode;
     if (window.matchMedia('(prefers-color-scheme: dark)').matches)
-      return 'dark';
+      return 'light';
     if (window.matchMedia('(prefers-color-scheme: light)').matches)
       return 'light';
   }
-  return 'dark';
+  return 'light';
 };
 
 const metaThemeColor =
