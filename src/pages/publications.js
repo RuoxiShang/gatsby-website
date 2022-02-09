@@ -19,6 +19,10 @@ export default function Publications() {
       <Title>Publications</Title>
 
       <Paragraph>
+      <b>Publications</b>
+      </Paragraph>
+
+      <Paragraph>
       <b>Giving and Receiving: Reciprocal Review Exchange in Online Fanfiction Communities</b>. Ruoxi Shang, Zile Xiao, Jenna Frens, Cecilia Aragon. In Companion Publication of the 2021 Conference on Computer Supported Cooperative Work and Social Computing. (CSCW'21)
       </Paragraph>
 
@@ -30,7 +34,9 @@ export default function Publications() {
       <b>Machine learning powered software for accurate prediction of biogas production: A case study on industrial-scale Chinese production data</b>. Djavan De Clercq, Devansh Jalota, Ruoxi Shang, Kunyi Ni, Zhuxin Zhang, Areeb Khan, Zongguo Wen, Luis Caicedo, Kai Yuan. Journal of Cleaner Production. 2019.
       </Paragraph>
 
-      <Title>Other Works</Title> 
+      <Paragraph>
+      <b>Other Works</b>
+      </Paragraph>
 
       <Paragraph>
       <b>Understanding Lay Users' Needs of Counterfactual Explanations for Everyday Recommendations</b>. Ruoxi Shang, Kevin Feng, Chirag Shah. Under review for the ACM Conference on Fairness, Accountability, and Transparency. (FAccT'22)
