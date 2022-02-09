@@ -1,6 +1,6 @@
 import React from 'react';
 import Section from '../components/Section';
-import { VisuallyHidden } from '../components/VisuallyHidden';
+import Subtitle from '../../src/components/shared/Subtitle';
 
 
 export default function Projects() {
