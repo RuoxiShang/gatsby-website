@@ -20,7 +20,7 @@ export default function Publications() {
       <Subtitle>Selected Publications</Subtitle>
 
       <Paragraph>
-      <br /><b><a href="~/papers/giving.pdf">Giving and Receiving: Reciprocal Review Exchange 
+      <br /><b><a href="./giving.pdf">Giving and Receiving: Reciprocal Review Exchange 
           in Online Fanfiction Communities</a></b>.
         Ruoxi Shang, Zile Xiao, Jenna Frens, Cecilia Aragon. In Companion Publication of the 2021 Conference on Computer Supported Cooperative Work and Social Computing. (CSCW'21)
       </Paragraph>
