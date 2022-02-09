@@ -20,13 +20,20 @@ export default function Publications() {
       <Subtitle>Selected Publications</Subtitle>
 
       <Paragraph>
-      <br /><b><a href="./giving.pdf">Giving and Receiving: Reciprocal Review Exchange 
-          in Online Fanfiction Communities</a></b>.
+      <br />
+        <Anchor href="https://drive.google.com/file/d/1kBQ0hr0NB0ezOxey8rYjAonH71AU4_GH/view?usp=sharing">
+          Giving and Receiving: Reciprocal Review Exchange in Online Fanfiction Communities</Anchor>.
         Ruoxi Shang, Zile Xiao, Jenna Frens, Cecilia Aragon. In Companion Publication of the 2021 Conference on Computer Supported Cooperative Work and Social Computing. (CSCW'21)
       </Paragraph>
 
       <Paragraph>
-      <b>Machine learning powered software for accurate prediction of biogas production: A case study on industrial-scale Chinese production data</b>. Djavan De Clercq, Devansh Jalota, Ruoxi Shang, Kunyi Ni, Zhuxin Zhang, Areeb Khan, Zongguo Wen, Luis Caicedo, Kai Yuan. Journal of Cleaner Production. 2019.
+      <b>
+      <Anchor href="https://drive.google.com/file/d/1SNLLPRRzUCb7wv38IxNNnbKZEWDZjtvr/view?usp=sharing">
+        Machine learning powered software for accurate prediction of biogas production: 
+        A case study on industrial-scale Chinese production data </Anchor></b>. Djavan De Clercq, Devansh Jalota, 
+        Ruoxi Shang, Kunyi Ni, Zhuxin Zhang, Areeb Khan, Zongguo Wen, Luis Caicedo, Kai Yuan. 
+        Journal of Cleaner Production. 2019.
+        
       </Paragraph>
 
       <Subtitle>Work under review</Subtitle>
