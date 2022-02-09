@@ -17,16 +17,12 @@ export default function Publications() {
   return (
     <Section title="Publications">
       
-      <Subtitle>Publications</Subtitle>
+      <Subtitle>Selected Publications</Subtitle>
 
       <Paragraph>
-      <br /><b><Anchor href="~/papers/giving.html">Giving and Receiving: Reciprocal Review Exchange 
-          in Online Fanfiction Communities</Anchor></b>.
+      <br /><b><a href="~/papers/giving.pdf">Giving and Receiving: Reciprocal Review Exchange 
+          in Online Fanfiction Communities</a></b>.
         Ruoxi Shang, Zile Xiao, Jenna Frens, Cecilia Aragon. In Companion Publication of the 2021 Conference on Computer Supported Cooperative Work and Social Computing. (CSCW'21)
-      </Paragraph>
-
-      <Paragraph>
-      <b>Reciprocity in Reviewing on Fanfiction.net</b>. Niamh Froelich, Arthur Liu, Ruoxi Shang, Zile Xiao, Travis Neils, Jenna Frens, Cecilia Aragon. In International Conference on Human-Computer Interaction 2021. (HCII'21)
       </Paragraph>
 
       <Paragraph>
