@@ -16,7 +16,7 @@ export default function Projects() {
   const months = differenceInMonths(today, startDate) - years * 12;
 
   const firstPart = "";
-  const secondPart = `Under Construction`;
+  const secondPart = `Coming Soon`;
 
   return (
     <Section title="Projects">
