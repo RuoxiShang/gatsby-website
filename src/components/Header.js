@@ -34,8 +34,8 @@ const Header = ({ title, description, ...rest }) => (
       layout="fixed"
       alt="Ruoxi Shang's Portrait"
       quality={100}
-      width={100}
-      height={100}
+      width={150}
+      height={150}
     />
     <div>
       <Title>{title}</Title>
