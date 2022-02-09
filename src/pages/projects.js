@@ -22,7 +22,7 @@ export default function Projects() {
     <Section title="Projects">
       
       <VisuallyHidden>
-        secondPart
+        {secondPart}
       </VisuallyHidden>
 
     </Section>
