@@ -46,7 +46,6 @@ const Layout = ({ children, ...rest }) => {
 
   return (
     <>
-      <ToggleMode />
       <Header title={title} description={description} />
       <Nav links={navLinks} />
       <Wrapper>
