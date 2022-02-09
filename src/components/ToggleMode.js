@@ -135,7 +135,7 @@ const ToggleStyle = createGlobalStyle`
 
 const Sun = () => (
   <span
-    style={{ right: '0.05rem' }}
+    style={{ right: '1rem' }}
     className="icon"
     role="img"
     aria-label="Switch to light mode"
