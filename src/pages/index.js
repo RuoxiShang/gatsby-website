@@ -33,7 +33,7 @@ export default function Index() {
         {' '}<Anchor href="https://www.hcde.washington.edu/">Human Centered Design & Engineering Department at University of Washington</Anchor>{''}, 
         advised by Dr. Gary Hsieh and Dr. Chirag Shah. 
         My reserach interest is in Human-centered Explainable AI, 
-        and my most recent work is about understanding lay users' needs in why not explanations for recommended content in everyday 
+        and my most recent work is about understanding lay users' needs in why-not explanations for recommended content in everyday 
         intelligent applications.
         Before coming into HCDE, I studied Applied Mathematics and Statistics. I had fun with a few Applied Data Science 
         research projects around building Machine Learning and Deep Neural Network predictive models.
