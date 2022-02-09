@@ -8,7 +8,7 @@ module.exports = {
       { name: 'About Me', path: '/' },
       { name: 'Projects', path: '/projects/' },
       { name: 'Publications', path: '/publications/' },
-      { name: 'Fun', path: '/fun/' },
+      //{ name: 'Fun', path: '/fun/' },
     ],
   },
   plugins: [

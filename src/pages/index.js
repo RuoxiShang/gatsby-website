@@ -30,11 +30,11 @@ export default function Index() {
       <Paragraph>
         Hi, I’m Anna. 
         I am a Human-Computer Interaction (HCI) researcher and a 2nd year PhD student in 
-        {' '}<Anchor href="https://www.hcde.washington.edu/">Human Centered Design & Engineering Department at University of Washington</Anchor>{' '}, 
+        {' '}<Anchor href="https://www.hcde.washington.edu/">Human Centered Design & Engineering Department at University of Washington</Anchor>{''}, 
         advised by Dr. Gary Hsieh and Dr. Chirag Shah. 
         My reserach interest is in Human-centered Explainable AI, 
-        and my most recent work is about understanding end-users' needs in the explainability 
-        of intelligent decision-support systems. 
+        and my most recent work is about understanding lay users' needs in why not explanations for recommended content in everyday 
+        intelligent applications.
         Before coming into HCDE, I studied Applied Mathematics and Statistics. I had fun with a few Applied Data Science 
         research projects around building Machine Learning and Deep Neural Network predictive models.
       </Paragraph>
