@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
-    title: 'I   Ruoxi Shang',
-    description: '   HCI Researcher',
+    title: '    Ruoxi Shang',
+    description: '    HCI Researcher',
     site: '@rxshang',
     image: 'https://shamann.dev/rxshang.jpg',
     navLinks: [
