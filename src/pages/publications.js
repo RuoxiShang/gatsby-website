@@ -3,7 +3,9 @@ import styled from 'styled-components';
 
 import Section from '../components/Section';
 import Paragraph from '../components/shared/Paragraph';
+import Subtitle from '../../src/components/shared/Subtitle';
 import Anchor from '../components/shared/Anchor';
+
 
 const Quote = styled.blockquote`
   margin: 0 1rem 0.75rem;
@@ -15,8 +17,8 @@ const Quote = styled.blockquote`
 export default function Publications() {
   return (
     <Section title="Publications">
-
-      <Title>Publications</Title>
+      
+      <Subtitle>Publications</Subtitle>
 
       <Paragraph>
       <b>Publications</b>
