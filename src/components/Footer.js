@@ -31,6 +31,9 @@ export default function Footer() {
             </Anchor>
             .
           </li>
+          <li>
+            Reach me at rxshang <b>at</b> uw <b>dot</b> edu
+          </li>
         </List>
       </nav>
     </StyledFooter>
