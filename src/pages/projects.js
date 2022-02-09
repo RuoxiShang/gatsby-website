@@ -7,7 +7,7 @@ export default function Projects() {
 
   return (
     <Section title="Projects">
-      <Title>Coming Soon</Title>
+      <Subtitle><b>Coming Soon...</b></Subtitle>
 
     </Section>
   );
