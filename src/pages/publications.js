@@ -1,6 +1,5 @@
 import React from 'react';
 import styled from 'styled-components';
-
 import Section from '../components/Section';
 import Paragraph from '../components/shared/Paragraph';
 import Subtitle from '../../src/components/shared/Subtitle';
@@ -21,7 +20,7 @@ export default function Publications() {
       <Subtitle>Publications</Subtitle>
 
       <Paragraph>
-      <br /><b><Anchor href="../../papers/giving.pdf">Giving and Receiving: Reciprocal Review Exchange 
+      <br /><b><Anchor href="~/papers/giving.html">Giving and Receiving: Reciprocal Review Exchange 
           in Online Fanfiction Communities</Anchor></b>.
         Ruoxi Shang, Zile Xiao, Jenna Frens, Cecilia Aragon. In Companion Publication of the 2021 Conference on Computer Supported Cooperative Work and Social Computing. (CSCW'21)
       </Paragraph>
