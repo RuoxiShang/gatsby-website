@@ -21,7 +21,9 @@ export default function Publications() {
       <Subtitle>Publications</Subtitle>
 
       <Paragraph>
-      <br /><b>Giving and Receiving: Reciprocal Review Exchange in Online Fanfiction Communities</b>. Ruoxi Shang, Zile Xiao, Jenna Frens, Cecilia Aragon. In Companion Publication of the 2021 Conference on Computer Supported Cooperative Work and Social Computing. (CSCW'21)
+      <br /><b><Anchor href="../../papers/giving.pdf">Giving and Receiving: Reciprocal Review Exchange 
+          in Online Fanfiction Communities</Anchor></b>.
+        Ruoxi Shang, Zile Xiao, Jenna Frens, Cecilia Aragon. In Companion Publication of the 2021 Conference on Computer Supported Cooperative Work and Social Computing. (CSCW'21)
       </Paragraph>
 
       <Paragraph>
@@ -35,7 +37,7 @@ export default function Publications() {
       <Subtitle>Work under review</Subtitle>
 
       <Paragraph>
-      <b>Understanding Lay Users' Needs of Counterfactual Explanations for Everyday Recommendations</b>. Ruoxi Shang, Kevin Feng, Chirag Shah. Under review for the ACM Conference on Fairness, Accountability, and Transparency. (FAccT'22)
+      <br /><b>Understanding Lay Users' Needs of Counterfactual Explanations for Everyday Recommendations</b>. Ruoxi Shang, Kevin Feng, Chirag Shah. Under review for the ACM Conference on Fairness, Accountability, and Transparency. (FAccT'22)
       </Paragraph>
 
     </Section>
