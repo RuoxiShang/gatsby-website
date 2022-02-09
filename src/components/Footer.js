@@ -29,7 +29,6 @@ export default function Footer() {
             <Anchor href="https://drive.google.com/file/d/1EHLbdD1SdTskFIV5XDm7gPbVqfsfsEwG/view?usp=sharing">
               here
             </Anchor>
-            .
           </li>
           <li>
             Reach me at rxshang <b>at</b> uw <b>dot</b> edu
