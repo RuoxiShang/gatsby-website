@@ -29,7 +29,7 @@ export default function Publications() {
       <Paragraph>
       <Anchor href="https://drive.google.com/file/d/1SNLLPRRzUCb7wv38IxNNnbKZEWDZjtvr/view?usp=sharing">
         Machine learning powered software for accurate prediction of biogas production: 
-        A case study on industrial-scale Chinese production data </Anchor>. Djavan De Clercq, Devansh Jalota, 
+        A case study on industrial-scale Chinese production data</Anchor>. Djavan De Clercq, Devansh Jalota, 
         Ruoxi Shang, Kunyi Ni, Zhuxin Zhang, Areeb Khan, Zongguo Wen, Luis Caicedo, Kai Yuan. 
         Journal of Cleaner Production. 2019.<br /><br />
         
