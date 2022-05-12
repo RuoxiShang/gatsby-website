@@ -6,7 +6,8 @@ const base = {
     blue: '#525252',
   },
   //font: { mono: `'Roboto Mono', monospace` },
-  font: { mono: `'Times New Roman', 'Times New Roman'` },
+  //font: { mono: `'Times New Roman', 'Times New Roman'` },
+  font: { mono: `'Fira Sans', 'Fira Sans'` },
   breakpoint: '640px',
 };
 
