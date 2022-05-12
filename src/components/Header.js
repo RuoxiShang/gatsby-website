@@ -15,7 +15,7 @@ const Wrapper = styled.header`
   img {
     border-radius: 50%;
     @media (max-width: ${(props) => props.theme.breakpoint}) {
-      margin-bottom: 1rem;
+      margin-bottom: 3rem;
     }
   }
 

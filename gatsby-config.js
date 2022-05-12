@@ -21,8 +21,8 @@ module.exports = {
         name: 'Ruoxi Shang',
         short_name: 'rxshang',
         start_url: '/',
-        background_color: '#212121',
-        theme_color: '#212121',
+        background_color: '#6667AB',
+        theme_color: '#6667AB',
         display: 'minimal-ui',
         icon: 'src/images/avatar.png', // This path is relative to the root of the site.
       },
