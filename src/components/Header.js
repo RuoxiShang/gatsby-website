@@ -29,13 +29,13 @@ const Wrapper = styled.header`
 const Header = ({ title, description, ...rest }) => (
   <Wrapper {...rest}>
     <StaticImage
-      src="../images/avatar.jpg"
+      src="../images/avatar.png"
       placeholder="blurred"
       layout="fixed"
       alt="Ruoxi Shang's Portrait"
       quality={100}
-      width={150}
-      height={150}
+      width={120}
+      height={120}
     />
     <div>
       <Title>{title}</Title>
