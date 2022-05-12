@@ -1,9 +1,9 @@
 const base = {
   color: {
     //lightBlue: '#B3E5FC',
-    lightBlue: '#808080',
+    lightBlue: '#525252',
     // blue: '#03A9F4',
-    blue: '#525252',
+    blue: '#D3D3D3',
   },
   //font: { mono: `'Roboto Mono', monospace` },
     font: { mono: `'Times New Roman', 'Times New Roman'` },
