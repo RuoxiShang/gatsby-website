@@ -28,7 +28,10 @@ export default function Footer() {
            News
           </li>
           <li>
-            111
+            2022
+          </li>
+          <li>
+            5/1 - 5/4 See you all at CHI 2022 @New Orleans
           </li>
         </List>
       </nav>

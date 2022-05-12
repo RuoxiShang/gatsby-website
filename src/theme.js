@@ -1,7 +1,9 @@
 const base = {
   color: {
-    lightBlue: '#B3E5FC',
-    blue: '#03A9F4',
+    //lightBlue: '#B3E5FC',
+    lightBlue: '#808080',
+    // blue: '#03A9F4',
+    blue: '#525252',
   },
   //font: { mono: `'Roboto Mono', monospace` },
   font: { mono: `'Times New Roman', 'Times New Roman'` },
@@ -9,12 +11,12 @@ const base = {
 };
 
 const darkColors = {
-  background: '#212121',
+  background: '#6667AB',
   text: '#f1f1f1',
 };
 
 const lightColors = {
-  background: '#f1f1f1',
+  background: '#6667AB',
   text: '#212121',
 };
 
