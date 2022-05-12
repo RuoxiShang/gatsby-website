@@ -18,6 +18,12 @@ export default function Publications() {
     <Section title="Publications">
       
       <Subtitle>Selected Publications</Subtitle>
+    
+      <Paragraph>
+      <Anchor href="https://camps.aptaracorp.com/ACM_PMS/PMS/ACM/FACCT22/106/3413b0c5-d102-11ec-a76e-16bb50361d1f/OUT/facct22-106.html">
+      Understanding Lay Users' Needs of Counterfactual Explanations for Everyday Recommendations</b>. 
+      Why Am I Not Seeing It? Understanding Users’ Needs for Counterfactual Explanations in Everyday Recommendations</Anchor>.Ruoxi Shang, K. J. Kevin Feng, and Chirag Shah. In 2022 ACM Conference on Fairness, Accountability, and Transparency (FAccT ’22)
+      </Paragraph>
 
       <Paragraph>
       <br />
@@ -32,15 +38,9 @@ export default function Publications() {
         A case study on industrial-scale Chinese production data</Anchor>. Djavan De Clercq, Devansh Jalota, 
         Ruoxi Shang, Kunyi Ni, Zhuxin Zhang, Areeb Khan, Zongguo Wen, Luis Caicedo, Kai Yuan. 
         Journal of Cleaner Production. 2019.<br /><br />
-        
-      </Paragraph>
-
-      <Subtitle>Work under review</Subtitle>
-
-      <Paragraph>
-      <br /><b>Understanding Lay Users' Needs of Counterfactual Explanations for Everyday Recommendations</b>. Ruoxi Shang, Kevin Feng, Chirag Shah. Under review for the ACM Conference on Fairness, Accountability, and Transparency. (FAccT'22)
-      </Paragraph>
-
+      </Paragraph>   
+    
+  
     </Section>
 
 
