@@ -20,9 +20,10 @@ export default function Publications() {
       <Subtitle>Selected Publications</Subtitle>
     
       <Paragraph>
-      <Anchor href="https://camps.aptaracorp.com/ACM_PMS/PMS/ACM/FACCT22/106/3413b0c5-d102-11ec-a76e-16bb50361d1f/OUT/facct22-106.html">
-      Understanding Lay Users' Needs of Counterfactual Explanations for Everyday Recommendations</b>. 
-      Why Am I Not Seeing It? Understanding Users’ Needs for Counterfactual Explanations in Everyday Recommendations</Anchor>.Ruoxi Shang, K. J. Kevin Feng, and Chirag Shah. In 2022 ACM Conference on Fairness, Accountability, and Transparency (FAccT ’22)
+      <br />
+      <Anchor href="https://camps.aptaracorp.com/ACM_PMS/PMS/ACM/FACCT22/106/3413b0c5-d102-11ec-a76e-16bb50361d1f/OUT/facct22-106.html"> 
+      Why Am I Not Seeing It? Understanding Users’ Needs for Counterfactual Explanations in Everyday Recommendations</Anchor>.
+      Ruoxi Shang, K. J. Kevin Feng, and Chirag Shah. In 2022 ACM Conference on Fairness, Accountability, and Transparency (FAccT ’22)
       </Paragraph>
 
       <Paragraph>
@@ -37,7 +38,7 @@ export default function Publications() {
         Machine learning powered software for accurate prediction of biogas production: 
         A case study on industrial-scale Chinese production data</Anchor>. Djavan De Clercq, Devansh Jalota, 
         Ruoxi Shang, Kunyi Ni, Zhuxin Zhang, Areeb Khan, Zongguo Wen, Luis Caicedo, Kai Yuan. 
-        Journal of Cleaner Production. 2019.<br /><br />
+        Journal of Cleaner Production. 2019.
       </Paragraph>   
     
   
