@@ -32,7 +32,8 @@ module.exports = {
       options: {
         google: {
           // families: ['Roboto+Mono:300,700', 'Roboto:400,700&display=swap'],
-          families: ['Ubuntu Serif', 'Ubuntu Sans'],
+          //families: ['Ubuntu Serif', 'Ubuntu Sans'],
+          families: ['Roboto']
         },
       },
     },

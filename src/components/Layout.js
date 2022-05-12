@@ -18,7 +18,7 @@ const GlobalStyle = createGlobalStyle`
     padding: 0;
     min-width: 300px;
     background-color: ${props => props.theme.modeColors.background};
-    font-family: 'Fira Sans', sans-serif;
+    font-family: 'Roboto', sans-serif;
     color: ${props => props.theme.modeColors.text};
     transition: color 0.2s ease-out, background 0.2s ease-out;
   }
