@@ -7,7 +7,7 @@ const base = {
   },
   //font: { mono: `'Roboto Mono', monospace` },
   //font: { mono: `'Times New Roman', 'Times New Roman'` },
-  font: { mono: `'Fira Sans', 'Fira Sans'` },
+  font: { mono: `'VT323', monospace` },
   breakpoint: '640px',
 };
 
