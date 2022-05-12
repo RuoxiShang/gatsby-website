@@ -36,20 +36,16 @@ export default function Index() {
         intelligent applications.
         Before coming into HCDE, I studied Applied Mathematics and Statistics. I had fun with a few Applied Data Science 
         research projects around building Machine Learning and Deep Neural Network predictive models.
-        </Paragraph>
         
-        <List>
-          <li>
-            View my CV {' '}
-            <Anchor href="https://drive.google.com/file/d/1EHLbdD1SdTskFIV5XDm7gPbVqfsfsEwG/view?usp=sharing">
-              here
-            </Anchor>
-          </li>
-          <li>
-            Reach me at rxshang <b>at</b> uw <b>dot</b> edu
-          </li>
-        </List>
 
+        View my CV {' '}
+        <Anchor href="https://drive.google.com/file/d/1EHLbdD1SdTskFIV5XDm7gPbVqfsfsEwG/view?usp=sharing">
+        here
+        </Anchor>
+        
+        Reach me at rxshang <b>at</b> uw <b>dot</b> edu
+
+        </Paragraph>
 
     </Section>
   );
