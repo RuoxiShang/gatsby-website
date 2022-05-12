@@ -1,3 +1,5 @@
+Ruoxi Shang's personal website.
+
 Proudly powered by [Gatsby](https://www.gatsbyjs.org/) 🚀
 
 With the help of those awesome apps to edit and compress images: [squoosh.app](https://squoosh.app) and [remove.bg](https://www.remove.bg/) 🖼️
