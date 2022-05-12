@@ -25,13 +25,10 @@ export default function Footer() {
       <nav aria-label="External links">
         <List>
           <li>
-            View my CV {' '}
-            <Anchor href="https://drive.google.com/file/d/1EHLbdD1SdTskFIV5XDm7gPbVqfsfsEwG/view?usp=sharing">
-              here
-            </Anchor>
+           News
           </li>
           <li>
-            Reach me at rxshang <b>at</b> uw <b>dot</b> edu
+            111
           </li>
         </List>
       </nav>
