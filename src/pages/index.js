@@ -37,13 +37,13 @@ export default function Index() {
         Before coming into HCDE, I studied Applied Mathematics and Statistics. I had fun with a few Applied Data Science 
         research projects around building Machine Learning and Deep Neural Network predictive models.
         
-        <br />
+        <br /><br />
         View my CV {' '}
         <Anchor href="https://drive.google.com/file/d/1EHLbdD1SdTskFIV5XDm7gPbVqfsfsEwG/view?usp=sharing">
         here
         </Anchor>
         
-        <br />
+        <br /><br />
         Reach me at rxshang <b>at</b> uw <b>dot</b> edu
 
         </Paragraph>
