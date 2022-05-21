@@ -35,11 +35,7 @@ export default function Index() {
         lay users' needs in why-not explanations for recommended content in everyday 
         intelligent applications.
         
-        <br /><br />
-        View my CV {' '}
-        <Anchor href="https://drive.google.com/file/d/1EHLbdD1SdTskFIV5XDm7gPbVqfsfsEwG/view?usp=sharing">
-        here
-        </Anchor>
+        
         
         <br /><br />
         Reach me at rxshang <b>at</b> uw <b>dot</b> edu
@@ -49,3 +45,9 @@ export default function Index() {
     </Section>
   );
 }
+
+//<br /><br />
+//        View my CV {' '}
+//       <Anchor href="https://drive.google.com/file/d/1EHLbdD1SdTskFIV5XDm7gPbVqfsfsEwG/view?usp=sharing">
+//        here
+//        </Anchor>
