@@ -25,14 +25,9 @@ export default function Footer() {
       <nav aria-label="External links">
         <List>
           <li>
-           News
+            Website last updated in May 2022.
           </li>
-          <li>
-            2022
-          </li>
-          <li>
-            5/1 - 5/4 See you all at CHI 2022 @New Orleans
-          </li>
+          
         </List>
       </nav>
     </StyledFooter>
