@@ -31,9 +31,8 @@ export default function Index() {
         Hi, I’m Anna. 
         I am a Human-Computer Interaction (HCI) researcher and a 2nd year PhD student in 
         {' '}<Anchor href="https://www.hcde.washington.edu/">Human Centered Design & Engineering Department at University of Washington</Anchor>{''}. 
-        My most recent work is about understanding 
-        lay users' needs in why-not explanations for recommended content in everyday 
-        intelligent applications.
+        I am broadly interested in Human-centered Explainable AI and Trust in Human-AI interaction. My most recent work is about understanding 
+        people's needs in counterfactual explanations for everyday recommendations.
         
         
         
